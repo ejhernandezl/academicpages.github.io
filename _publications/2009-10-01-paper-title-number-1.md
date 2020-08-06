@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 1"
+title: "Modelo para el proceso de extracción, transformación y carga en bodegas de datos. Una aplicación con datos ambientales"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2016-Modelo para el proceso de extracción, transformación y carga en bodegas de datos. Una aplicación con datos ambientales
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
