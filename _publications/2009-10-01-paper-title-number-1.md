@@ -1,15 +1,15 @@
 ---
 title: "Modelo para el proceso de extracción, transformación y carga en bodegas de datos. Una aplicación con datos ambientales"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2016-12-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2016-12-01
+venue: 'Ciencia e Ingeniería Neogranadina'
+paperurl: 'http://academicpages.github.io/files/AR01-Neogranadina.pdf'
+citation: 'Duque-Méndez, N. D., Hernández-Leal, E. J., Pérez Zapata, A., Arroyave Tabares, A., & Espinosa Gómez, D. (2016). Modelo para el proceso de extracción, transformación y carga en bodega de datos. Una aplicación con datos ambientales. Ciencia e Ingeniería Neogranadina, 26(2), 95–109." <i>Ciencia e Ingeniería Neogranadina'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://academicpages.github.io/files/AR01-Neogranadina.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Duque-Méndez, N. D., Hernández-Leal, E. J., Pérez Zapata, A., Arroyave Tabares, A., & Espinosa Gómez, D. (2016). Modelo para el proceso de extracción, transformación y carga en bodega de datos. Una aplicación con datos ambientales. Ciencia e Ingeniería Neogranadina, 26(2), 95–109." <i>Ciencia e Ingeniería Neogranadina</i>. 1(1).
