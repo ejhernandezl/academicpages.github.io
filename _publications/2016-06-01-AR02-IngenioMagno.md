@@ -10,4 +10,4 @@ citation: 'Hernández Leal, E. J., Duque Méndez, N. D. y Moreno Cadavid, J. M. 
 ---
 
 
-[Descargar el artículo aquí](http://revistas.ustatunja.edu.co/index.php/ingeniomagno/article/view/1172)
+<a href ="https://ejhernandezl.github.io/files/AR02_IngenioMagno.pdf" target="_blank">Descarga este artículo aquí</a>

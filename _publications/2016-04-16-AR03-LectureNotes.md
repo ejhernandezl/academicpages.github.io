@@ -1,7 +1,7 @@
 ---
 title: "Rainfall Prediction: A Deep Learning Aproach"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2016-04-16-AR03-LectureNotes
 #excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2016-04-14
 venue: 'Lecture Notes In Computer Science'
@@ -10,5 +10,5 @@ citation: 'Hernández E., Sanchez-Anguix V., Julian V., Palanca J., Duque N. (20
 ---
 
 
-[Descargar este artíclo aquí](https://link.springer.com/chapter/10.1007/978-3-319-32034-2_13)
+<a href ="https://ejhernandezl.github.io/files/AR03_LectureNotes.pdf" target="_blank">Descarga este artículo aquí</a>
 
