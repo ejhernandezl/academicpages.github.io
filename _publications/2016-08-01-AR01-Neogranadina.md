@@ -10,3 +10,4 @@ citation: 'Duque Méndez, N. D., Hernández Leal, E. J., Pérez Zapata, Ángela 
 ---
 
 [Descarga este artículo aquí](https://ejhernandezl.github.io/files/AR01_Neogranadina.pdf)
+<a href ="https://ejhernandezl.github.io/files/AR01_Neogranadina.pdf" target="_blank">Descarga este artículo aquí</a>.
