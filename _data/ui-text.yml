@@ -87,6 +87,8 @@ es: &DEFAULT_ES
   comment_success_msg        :
   comment_error_msg          :
   loading_label              :
+  publications               : "publicaciones"
+  Published in               : "Publicado en"
 es-ES:
   <<: *DEFAULT_ES
 es-CO:
