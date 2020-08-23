@@ -5,7 +5,7 @@ permalink: /proceedings/2017-10-proceedings-9
 date: 2017-10-01
 venue: 'XII Latin American Conference on Learning Technologies - LACLO 2017'
 paperurl: 'https://ieeexplore.ieee.org/document/8120948'
-citation: 'E. J. Hernández-Leal, N. D. Duque-Méndez, M. Giraldo-Ocampo and P. A. Rpdríguez-Marín, "Construction of learning objects with Augmented Reality: An experience in secondary education," 2017 Twelfth Latin American Conference on Learning Technologies (LACLO), La Plata, 2017, pp. 1-7, doi: 10.1109/LACLO.2017.8120948'
+citation: 'E. J. Hernández-Leal, N. D. Duque-Méndez, M. Giraldo-Ocampo and P. A. Rodríguez-Marín, "Construction of learning objects with Augmented Reality: An experience in secondary education," 2017 Twelfth Latin American Conference on Learning Technologies (LACLO), La Plata, 2017, pp. 1-7, doi: 10.1109/LACLO.2017.8120948'
 ---
 
 
