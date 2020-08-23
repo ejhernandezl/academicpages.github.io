@@ -1,6 +1,6 @@
 ---
 title: "Smart Chat: Agentes Inteligentes Compañeros como Apoyo en Cursos Virtuales "
-collection: publications
+collection: teaching
 permalink: /proceedings/2010-09-proceedings-1
 date: 2010-09-01
 venue: 'II Congreso Internacional de Ambientes Virtuales de Aprendizaje Adaptativos y Accesibles, CAVA 2010'
