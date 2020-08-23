@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Administradora de Sistemas Informáticos, Universidad Nacional de Colombia, Manizales 2013
+* Especialista en Gerencia Estratégica de Proyectos, Universidad Nacional de Colombia, Manizales 2013
+* Magister en Ingeniería Administrativa, Universidad Nacional de Colombia , Medellín 2016
+* Ph.D en Ingeniería -Industria y Organizaciones-, Universidad Nacional de Colombia, 2021 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2013-Sep - 2020-Feb: Investigación y extensión
+  * Universidad Nacional de Colombia – Sede Manizales
+  * Instituto de Estudios Ambientales - IDEA
+  * Actividades: Participación en el desarrollo, coordinación y supervición de la plataforma de soporte tecnológico del Centro de Datos e Indicadores Ambientales de Caldas - CDIAC y del Sistema Integrado de Monitoreo Ambiental de Caldas - SIMAC.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2010 - Actual: Investigación
+  * Universidad Nacional de Colombia – Sede Manizales
+  * Grupo de Investigación en Ambientes Inteligentes Adaptativos - GAIA
+  * Actividades: Participación en proyectos de investigación, trabajo con estudiantes de pregrado y maestría, coordinación del semillero de minería de datos educativos (2018-2019)
   
-Skills
+* 2020-Feb - Actual: Referente de Sistemas
+  * Universidad Nacional de Colombia – Sede Manizales
+  * UNISALUD
+
+Lineas de Investigación
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Informática educativa
+* Análisis de datos
+  * Bases de datos
+  * Minería de datos
+  * 
+* Inreligencia artificial
 
 Publications
 ======
