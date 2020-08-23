@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Educación
 ======
 * Administradora de Sistemas Informáticos, Universidad Nacional de Colombia, Manizales 2013
 * Especialista en Gerencia Estratégica de Proyectos, Universidad Nacional de Colombia, Manizales 2013
 * Magister en Ingeniería Administrativa, Universidad Nacional de Colombia , Medellín 2016
 * Ph.D en Ingeniería -Industria y Organizaciones-, Universidad Nacional de Colombia, 2021 (expected)
 
-Work experience
+Experiencia
 ======
 * 2013-Sep - 2020-Feb: Investigación y extensión
   * Universidad Nacional de Colombia – Sede Manizales
@@ -38,16 +38,16 @@ Lineas de Investigación
 * Análisis de datos
   * Bases de datos
   * Minería de datos
-  * 
-* Inreligencia artificial
+* Inteligencia artificial
 
-Publications
+Publicaciones
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -61,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
