@@ -4,8 +4,8 @@ collection: publications
 permalink: /proceedings/2010-09-proceedings-1
 date: 2010-09-01
 venue: 'II Congreso Internacional de Ambientes Virtuales de Aprendizaje Adaptativos y Accesibles, CAVA 2010'
-#paperurl: 'https://link.springer.com/chapter/10.1007/978-3-319-32034-2_13'
-#citation: 'Hernández E., Sanchez-Anguix V., Julian V., Palanca J., Duque N. (2016) Rainfall Prediction: A Deep Learning Approach. In: Martínez-Álvarez F., Troncoso A., Quintián H., Corchado E. (eds) Hybrid Artificial Intelligent Systems. HAIS 2016. Lecture Notes in Computer Science, vol 9648. Springer, Cham. https://doi.org/10.1007/978-3-319-32034-2_13'
+paperurl: 'http://www.cava-conference.info/cava/cava2010/memorias/doc/cava2010_submission_37.pdf'
+#citation: ''
 ---
 
 
