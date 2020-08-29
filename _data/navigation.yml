@@ -1,23 +1,33 @@
 # main links links
 main:
+  
+  - title: "CV"
+    url: /cv/
+    #está en pages
+  
   - title: "Publicaciones"
     url: /publications/
+
+  - title: "Proceedings"
+    url: /proceedings/
+
+  - title: "Proyectos"
+    url: /projects/
+
+  - title: "Distinciones"
+    url: /distinctions/
+  
+  
+
 
 #  - title: "Talks"
 #   url: /talks/    
 
 #  - title: "Teaching"
 #    url: /teaching/    
-    
-  - title: "Proceedings"
-    url: /proceedings/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    #está en pages
-      
+ 
+# - title: "Blog Posts"
+#  url: /year-archive/
+
 #  - title: "Guide"
 #    url: /markdown/
