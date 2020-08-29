@@ -9,4 +9,4 @@ citation: 'Hernández, Emilcy & Duque, Néstor & Giraldo, Mauricio & Sepúlveda 
 ---
 
 
-<a href ="https://www.researchgate.net/publication/322641668_Extension_de_un_chatterbot_con_tecnicas_de_Realidad_Aumentada_Busqueda_de_Contenidos_Dinamicos_y_Gestion_de_Agentes" target="_blank">Descarga este artículo aquí</a>
+<a href ="https://ejhernandezl.github.io/files/AE03_CAVA2011.pdf" target="_blank">Descarga este artículo aquí</a>

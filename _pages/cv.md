@@ -16,6 +16,22 @@ Educación
 * Magister en Ingeniería Administrativa, Universidad Nacional de Colombia , Medellín 2016
 * Ph.D en Ingeniería -Industria y Organizaciones-, Universidad Nacional de Colombia, 2021 (expected)
 
+Lineas de Investigación
+======
+* Informática educativa
+* Análisis de datos
+  * Bases de datos
+  * Minería de datos
+* Inteligencia artificial
+
+Distinciones
+======
+* Beca para cursar estudios de doctorado, Colciencias – Gobernación de Norte de Santander, 2017
+* Distinción Meritoria Tesis de Maestría, Universidad Nacional de Colombia – Sede Medellín, 2016
+* Beca para cursar estudios de maestría, Universidad Nacional de Colombia – Sede Manizales, 2014
+* Grado de Honor de Pregrado, Universidad Nacional de Colombia – Sede Manizales, 2013
+* Mejor Paper, [CAVA](http://cava-conference.info/cava/cava2011/memorias/) - Congreso Internacional de Ambientes Virtuales de Aprendizaje Adaptativos y Accesibles, 2011
+
 Experiencia
 ======
 * 2013-Sep - 2020-Feb: Investigación y extensión
@@ -31,14 +47,6 @@ Experiencia
 * 2020-Feb - Actual: Referente de Sistemas
   * Universidad Nacional de Colombia – Sede Manizales
   * UNISALUD
-
-Lineas de Investigación
-======
-* Informática educativa
-* Análisis de datos
-  * Bases de datos
-  * Minería de datos
-* Inteligencia artificial
 
 Publicaciones
 ======
