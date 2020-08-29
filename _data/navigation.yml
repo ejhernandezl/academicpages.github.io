@@ -8,8 +8,8 @@ main:
   - title: "Publicaciones"
     url: /publications/
 
-  - title: "Proceedings"
-    url: /proceedings/
+    - title: "Proceedings"
+      url: /proceedings/
 
   - title: "Proyectos"
     url: /projects/
