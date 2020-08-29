@@ -14,14 +14,12 @@ Educación
 * Administradora de Sistemas Informáticos, Universidad Nacional de Colombia, Manizales 2013
 * Especialista en Gerencia Estratégica de Proyectos, Universidad Nacional de Colombia, Manizales 2013
 * Magister en Ingeniería Administrativa, Universidad Nacional de Colombia , Medellín 2016
-* Ph.D en Ingeniería -Industria y Organizaciones-, Universidad Nacional de Colombia, 2021 (expected)
+* Ph.D en Ingeniería -Industria y Organizaciones-, Universidad Nacional de Colombia, 2021 (esperado)
 
 Lineas de Investigación
 ======
 * Informática educativa
 * Análisis de datos
-  * Bases de datos
-  * Minería de datos
 * Inteligencia artificial
 
 Distinciones
@@ -34,19 +32,20 @@ Distinciones
 
 Experiencia
 ======
-* 2013-Sep - 2020-Feb: Investigación y extensión
-  * Universidad Nacional de Colombia – Sede Manizales
-  * Instituto de Estudios Ambientales - IDEA
-  * Actividades: Participación en el desarrollo, coordinación y supervición de la plataforma de soporte tecnológico del Centro de Datos e Indicadores Ambientales de Caldas - CDIAC y del Sistema Integrado de Monitoreo Ambiental de Caldas - SIMAC.
-
-* 2010 - Actual: Investigación
-  * Universidad Nacional de Colombia – Sede Manizales
+* 2009 - Actual: Investigación
   * Grupo de Investigación en Ambientes Inteligentes Adaptativos - GAIA
-  * Actividades: Participación en proyectos de investigación, trabajo con estudiantes de pregrado y maestría, coordinación del semillero de minería de datos educativos (2018-2019)
-  
-* 2020-Feb - Actual: Referente de Sistemas
-  * Universidad Nacional de Colombia – Sede Manizales
+    * Universidad Nacional de Colombia – Sede Manizales
+    * Actividades: Participación en proyectos de investigación, trabajo con estudiantes de pregrado y maestría, coordinación del semillero de minería de datos educativos (2018-2019)
+
+* 09/2013 - 02/2020: Investigación y extensión
+  * Instituto de Estudios Ambientales - IDEA
+    * Universidad Nacional de Colombia – Sede Manizales
+    * Actividades: Participación en el desarrollo, coordinación y supervición de la plataforma de soporte tecnológico del Centro de Datos e Indicadores Ambientales de Caldas - CDIAC y del Sistema Integrado de Monitoreo Ambiental de Caldas - SIMAC.
+
+* 02/2020 - Actual: Referente de Sistemas
   * UNISALUD
+    * Universidad Nacional de Colombia – Sede Manizales
+  
 
 Publicaciones
 ======
