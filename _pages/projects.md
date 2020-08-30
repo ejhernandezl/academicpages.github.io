@@ -5,6 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
+
+
 ## Operación Sistema de Monitoreo Ambiental de Caldas - SIMAC
 
 * Título: Operación y mantenimiento preventivo y correctivo a las redes hidrometeorológicas, de calidad de Aire y sísmicas en el departamento de Caldas.
@@ -38,7 +40,7 @@ author_profile: true
 * Descripción: El objetivo de esta Red es que académicos, investigadores y profesionales se unan en el impulso de actividades para la transferencia de conocimiento en el ámbito del desarrollo de tecnología colaborativa, personalizada y ubicua, presentando experiencias innovadoras y ejemplos de buenas prácticas nacionales, regionales e internacionales. Resultado de ello es, por ejemplo, la definición de un modelo pedagógico y tecnológico basado en este esquema de Aprendizaje Ubicuo y Colaborativo.
 * Financiado: CYTED - Ciencia y tecnología para el desarrollo.
 
-## Análisis datos ambientales
+## Análisis de datos ambientales
 
 * Título: Fortalecimiento de Capacidades Conjuntas para el procesameinto y Análisis de datos ambientales.
 * Descripción: Propuesta para el fortalecimiento de las capacidades de análisis de datos ambientales en una cooperación entre el grupo de investigación GAIA y el GTA en Ingeniería Hidráulica y Ambiental de la Universidad Nacional de Colombia sede Manizales.
