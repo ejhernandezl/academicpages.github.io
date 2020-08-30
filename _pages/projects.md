@@ -12,21 +12,21 @@ author_profile: true
 * Título: Operación y mantenimiento preventivo y correctivo a las redes hidrometeorológicas, de calidad de Aire y sísmicas en el departamento de Caldas.
 * Descripción: Proyecto de operación y mantenimiento de las redes que conforman el Sistema de Monitoreo Ambiental de Caldas SIMAC, esto incluye Red Hidrometeorológica, Red de Calidad del Aire, Red Sísmica y Red de Aguas Subterráneas.
 * Financiado: Alcaldía de Manizales - Corpocaldas.
-* Enlace: <a href ="http://cdiac.manizales.unal.edu.co/sistema-alerta-temprana/MapaManizales" target="_blank"></a>
+* Enlace: <a href ="http://cdiac.manizales.unal.edu.co/sistema-alerta-temprana/MapaManizales" target="_blank">Ver aquí</a> 
 
 ## RAIM
 
 * Título: RAIM - Implementación de un framework apoyado en tecnologias móviles y de realidad aumentada para entornos educativos ubicuos, adaptativos, accesibles e interactivos para todos.
 * Descripción: Este proyecto pretende definir e implementar un framework, aprovechando tecnologías móviles y de realidad aumentada, para la construcción, validación y publicación de objetos de aprendizaje interactivos y ubicuos orientados a la recuperación personalizada, incluyendo estudiantes con Necesidades Especiales en Educación y tomando características del contexto.
 * Financiado: Colciencias.
-* Enlace: <http://gaia.manizales.unal.edu.co/raim/Public/searchOa>
+* Enlace: <a href ="http://gaia.manizales.unal.edu.co/raim/Public/searchOa" target="_blank">Ver aquí</a>
 
 ## Línea Base Ambiental de Caldas Fase III
 
 * Título: Implementación de indicadores de línea base ambiental y construcción de una bodega de datos para apoyar la generación y análisis de los mismos como parte del proyecto de estructuración de la línea base ambiental del departamento de Caldas.
 * Descripción: A traves de la estructuración de la línea base ambiental del departamento de Caldas se estableció la importancia y la necesidad de generar información a traves de una serie de indicadores ambientales para ser aplicarda en diferentes campos. Por lo que se consideró preciso abordar varios temas ambientales que se han ido desarrollando.
 * Financiado: Corpocaldas y Universidad Nacional de Colombia Sede Manizales.
-* Enlace: <http://cdiac.manizales.unal.edu.co/inicio/>
+* Enlace: <a href ="http://cdiac.manizales.unal.edu.co/inicio/" target="_blank">Ver aquí</a>
 
 ## Gestión de REDA
 
