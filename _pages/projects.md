@@ -12,14 +12,14 @@ author_profile: true
 * Título: Operación y mantenimiento preventivo y correctivo a las redes hidrometeorológicas, de calidad de Aire y sísmicas en el departamento de Caldas.
 * Descripción: Proyecto de operación y mantenimiento de las redes que conforman el Sistema de Monitoreo Ambiental de Caldas SIMAC, esto incluye Red Hidrometeorológica, Red de Calidad del Aire, Red Sísmica y Red de Aguas Subterráneas.
 * Financiado: Alcaldía de Manizales - Corpocaldas.
-* Enlace: <http://cdiac.manizales.unal.edu.co/sistema-alerta-temprana/MapaManizales/>
+* Enlace: <a href ="http://cdiac.manizales.unal.edu.co/sistema-alerta-temprana/MapaManizales" target="_blank"></a>
 
 ## RAIM
 
 * Título: RAIM - Implementación de un framework apoyado en tecnologias móviles y de realidad aumentada para entornos educativos ubicuos, adaptativos, accesibles e interactivos para todos.
 * Descripción: Este proyecto pretende definir e implementar un framework, aprovechando tecnologías móviles y de realidad aumentada, para la construcción, validación y publicación de objetos de aprendizaje interactivos y ubicuos orientados a la recuperación personalizada, incluyendo estudiantes con Necesidades Especiales en Educación y tomando características del contexto.
 * Financiado: Colciencias.
-* Enlace: < http://gaia.manizales.unal.edu.co/raim/Public/searchOa >
+* Enlace: <http://gaia.manizales.unal.edu.co/raim/Public/searchOa>
 
 ## Línea Base Ambiental de Caldas Fase III
 
