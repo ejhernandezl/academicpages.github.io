@@ -21,7 +21,7 @@ author_profile: true
 * Financiado: Colciencias.
 * Enlace: <a href ="http://gaia.manizales.unal.edu.co/raim/Public/searchOa" target="_blank">Ver aquí</a>
 
-## Línea Base Ambiental de Caldas Fase III
+## Línea Base Ambiental de Caldas Fase III y IV
 
 * Título: Implementación de indicadores de línea base ambiental y construcción de una bodega de datos para apoyar la generación y análisis de los mismos como parte del proyecto de estructuración de la línea base ambiental del departamento de Caldas.
 * Descripción: A traves de la estructuración de la línea base ambiental del departamento de Caldas se estableció la importancia y la necesidad de generar información a traves de una serie de indicadores ambientales para ser aplicarda en diferentes campos. Por lo que se consideró preciso abordar varios temas ambientales que se han ido desarrollando.
