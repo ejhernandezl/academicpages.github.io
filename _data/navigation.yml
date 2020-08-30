@@ -8,13 +8,9 @@ main:
   - title: "Publicaciones"
     url: /publications/
 
-
-
   - title: "Proyectos"
     url: /projects/
 
-  - title: "Distinciones"
-    url: /distinctions/
   
   
 #- title: "Proceedings"

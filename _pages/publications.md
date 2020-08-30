@@ -15,8 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Proceedings
-======
+## Proceedings
+
 {% for post in site.proceedings %}
   {% include archive-single-proceedings.html %}
 {% endfor %}
