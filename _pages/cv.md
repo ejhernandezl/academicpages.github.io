@@ -33,17 +33,17 @@ Distinciones
 Experiencia
 ======
 * 2009 - Actual: Investigación
-  * Grupo de Investigación en Ambientes Inteligentes Adaptativos - GAIA
+  * Grupo de Investigación en Ambientes Inteligentes Adaptativos - [GAIA](http://gaia.manizales.unal.edu.co/GAIA/)
     * Universidad Nacional de Colombia – Sede Manizales
     * Actividades: Participación en proyectos de investigación, trabajo con estudiantes de pregrado y maestría, coordinación del semillero de minería de datos educativos (2018-2019)
 
 * 09/2013 - 02/2020: Investigación y extensión
-  * Instituto de Estudios Ambientales - IDEA
+  * Instituto de Estudios Ambientales - [IDEA](http://idea.manizales.unal.edu.co/)
     * Universidad Nacional de Colombia – Sede Manizales
     * Actividades: Participación en el desarrollo, coordinación y supervición de la plataforma de soporte tecnológico del Centro de Datos e Indicadores Ambientales de Caldas - CDIAC y del Sistema Integrado de Monitoreo Ambiental de Caldas - SIMAC.
 
 * 02/2020 - Actual: Referente de Sistemas
-  * UNISALUD
+  * Servicio de salud de la Universidad Nacional de Colombia - UNISALUD
     * Universidad Nacional de Colombia – Sede Manizales
   
 
